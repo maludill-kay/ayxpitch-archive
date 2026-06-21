@@ -1,2 +1,12 @@
 # ayxpitch-archive
-HTML page archive and documentation
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 文件列表
+
+- README：仓库说明
+- HTML：页面发布文件
+
+## 维护说明
+
+页面内容会根据发布任务逐步追加，具体状态以提交记录为准。
